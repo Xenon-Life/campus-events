@@ -1,0 +1,20 @@
+{
+  "name": "campus-events",
+  "version": "1.0.0",
+  "description": "Local Tourism Promotion Website built with HTML, CSS, Parcel, GitHub collaboration, and Docker.",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --dist-dir dist --public-url ./"
+  },
+  "keywords": [
+    "tourism",
+    "parcel",
+    "docker",
+    "devops"
+  ],
+  "author": "Team Lead and Members",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}

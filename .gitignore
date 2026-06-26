@@ -1,5 +1,5 @@
 node_modules/
 dist/
 .parcel-cache/
-.env
 .DS_Store
+config.bat
